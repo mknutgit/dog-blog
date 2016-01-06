@@ -1,6 +1,17 @@
 .intro {
-  font-style: italic;
+  text-align: center;
 }
 * {
   background-color: green;
+}
+img.main {
+  float: right;
+}
+.column {
+  width: 50px;
+  float: left;
+}
+.spacing {
+  margin-top: 100px;
+  margin-bottom: 30px;
 }
